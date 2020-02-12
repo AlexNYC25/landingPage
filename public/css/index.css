@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(240, 66, 66);
+}
+
+#page-navbar{
+    background-color: rgb(184, 48, 48) !important;
+    color: rgb(0, 0, 0);
+}
+
+#greeting{
+    background-image: url("../images/artiom-vallat-H-qqp_Eqaww-unsplash.jpg");
+    background-size: cover ;
+    color: rgb(255, 255, 255);
+}
+
+#builds-container{
+    background-image: url("../images/thomas-jensen-GztZ77a0tAM-unsplash.jpg");
+    background-size: cover;
+    color: rgb(255, 255, 255);
+}
+
+#parts-container{
+    background-image: url("../images/l-o-r-a-kfT6CFAuqe4-unsplash.jpg");
+    background-size: cover;
+    color: rgb(255, 255, 255)
+}
+
+#contact-container{
+    background-image: url("../images/daniel-mccullough-HtBlQdxfG9k-unsplash.jpg");
+    background-size: cover;
+    color: rgb(255, 255, 255)
+}
